@@ -1,6 +1,6 @@
 # Palmonda Open Source
 
-<img src="pluto-done.png" style="height:500px;max-height:50vh">
+<img src="pluto-done.png" height="500">
 
 Illustration by [Sara Maese](https://saramaese.com/) from [Ouch](https://www.icons8.com)!
 

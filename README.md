@@ -10,4 +10,4 @@ https://palmonda.github.io
 
 
 ## Thanks to Icons8
-I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons8.com/lunacy), lot's of great, free and nice assets by [Ouch!](https://www.icons8.com/ouch) and nice illustrations of other great illustrators and creators.
+I'm using [Icons8](https://www.icons8.com), [Lunacy by Icons8](https://www.icons8.com/lunacy), lot's of great, free and nice assets by [Ouch!](https://www.icons8.com/ouch) and nice illustrations of other great illustrators and creators. For example the image 👆 or my profile is made with assets by [Icons8](https://www.icons8.com).
